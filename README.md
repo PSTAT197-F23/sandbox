@@ -1,3 +1,5 @@
 # sandbox
 
-repository for experimentation with git actions in pstat197
+template repo for class activity on git and github in pstat197a
+
+updated october 2023
